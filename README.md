@@ -1,5 +1,5 @@
 # WindowsFormStudy
-윈도우폼 개인 공부용 레포입니다.
+윈도우폼 개인 공부용 repository입니다.
 
 
 
