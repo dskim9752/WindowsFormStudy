@@ -1,0 +1,17 @@
+C:\WinForms\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.exe
+C:\WinForms\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.deps.json
+C:\WinForms\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.runtimeconfig.json
+C:\WinForms\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.dll
+C:\WinForms\MathQuiz\MathQuiz\bin\Debug\net6.0-windows\MathQuiz.pdb
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.vbproj.AssemblyReference.cache
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.Form1.resources
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.vbproj.GenerateResource.cache
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.AssemblyInfoInputs.cache
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.AssemblyInfo.vb
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.vbproj.CoreCompileInputs.cache
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.dll
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\refint\MathQuiz.dll
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.pdb
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\MathQuiz.genruntimeconfig.cache
+C:\WinForms\MathQuiz\MathQuiz\obj\Debug\net6.0-windows\ref\MathQuiz.dll

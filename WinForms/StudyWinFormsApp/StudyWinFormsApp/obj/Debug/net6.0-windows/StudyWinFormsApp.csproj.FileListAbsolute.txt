@@ -1,0 +1,17 @@
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\bin\Debug\net6.0-windows\StudyWinFormsApp.exe
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\bin\Debug\net6.0-windows\StudyWinFormsApp.deps.json
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\bin\Debug\net6.0-windows\StudyWinFormsApp.runtimeconfig.json
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\bin\Debug\net6.0-windows\StudyWinFormsApp.dll
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\bin\Debug\net6.0-windows\StudyWinFormsApp.pdb
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.csproj.AssemblyReference.cache
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.btnConfirm.resources
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.csproj.GenerateResource.cache
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.AssemblyInfoInputs.cache
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.AssemblyInfo.cs
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.csproj.CoreCompileInputs.cache
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.dll
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\refint\StudyWinFormsApp.dll
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.pdb
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\StudyWinFormsApp.genruntimeconfig.cache
+C:\WinForms\StudyWinFormsApp\StudyWinFormsApp\obj\Debug\net6.0-windows\ref\StudyWinFormsApp.dll

@@ -1,0 +1,11 @@
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\bin\Debug\SimpleImgViewer.exe.config
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\bin\Debug\SimpleImgViewer.exe
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\bin\Debug\SimpleImgViewer.pdb
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.csproj.AssemblyReference.cache
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.csproj.SuggestedBindingRedirects.cache
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.Properties.Resources.resources
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.csproj.GenerateResource.cache
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.csproj.CoreCompileInputs.cache
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.exe
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.pdb
+C:\WinForms\SimpleImgViewer\SimpleImgViewer\obj\Debug\SimpleImgViewer.PictureViewer.resources
